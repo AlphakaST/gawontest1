@@ -1,0 +1,3 @@
+# requirements.txt
+streamlit==1.46.0   # 2025-06-18 릴리스, st.navigation 등 최신 기능 포함  :contentReference[oaicite:1]{index=1}
+openai>=1.37.0      # openai.OpenAI 클래스(st.secrets 사용) 지원 버전  :contentReference[oaicite:2]{index=2}
